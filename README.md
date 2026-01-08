@@ -2,7 +2,7 @@
 
 NOTE: I happen to be using some data relevant to ocean science, otherwise the "Ocean Science" bit is neither here nor there.
 
-This is PG version of the course, with more focus on neural networks. Material mostly in the notebooks, but some are in the lecture slides themselves (mostly the theory parts). At least three known ways of running these:
+This is PG version of the ML course I teach at the [UG level](https://github.com/julianmak/OCES4303_ML_ocean/) that focuses more on neural networks. Material mostly in the notebooks, but some are in the lecture slides themselves (mostly the theory parts). At least three known ways of running these:
 
 1) On your computer, by downloading the pack (there should be a green "code" button near the top right of this page, click it and there should be "download")
 
