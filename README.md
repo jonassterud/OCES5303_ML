@@ -26,10 +26,10 @@ Will not be touching on LLMs here. Core topics are:
 6. Autoencoders
 7. RNNs
 8. GANs
-9. Symbolic regression and equation discovery (SINDy)
 10. PINNs
+9. FNOs or Neural ODEs (not sure yet)
 
-Extra topics to include AI + Ethics, online learning, diffusion models, TDA, FNOs, others that I feel like at some point.
+Extra topics to include AI + Ethics, online learning, diffusion models, TDA, SINDy, FNOs, Neural ODEs, others that I feel like at some point.
 
 ### Other resources of use
 
