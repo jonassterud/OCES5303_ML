@@ -1,0 +1,28 @@
+name: OCES5303
+channels:
+  - plotly
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - python-kaleido
+  - notebook
+  - ipykernel
+  - numpy
+  - pandas
+  - openpyxl
+  - xlrd
+  - scipy
+  - statsmodels
+  - matplotlib
+  - scikit-learn
+  - waitress
+  - django
+  - flask
+  - plotly
+  - cloudpickle
+  - cftime
+  - fsspec
+  - xarray
+  - requests
+  - aiohttp
