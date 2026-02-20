@@ -26,10 +26,10 @@ Will not be touching on LLMs here. Core topics are:
 6. Autoencoders
 7. RNNs
 8. GANs
-10. PINNs
-9. FNOs or Neural ODEs (not sure yet)
+9. PINNs
+10. FNOs
 
-Extra topics to include AI + Ethics, online learning, diffusion models, TDA, SINDy, FNOs, Neural ODEs, others that I feel like at some point.
+Extra topics to include AI + Ethics, online learning, diffusion models, TDA, SINDy, FNOs, Neural ODEs, Graph NNs, others that I feel like at some point.
 
 ### Other resources of use
 
@@ -38,6 +38,7 @@ There are already quite a lot of Google and YouTube resources to be honest. Ones
 * [Brunton & Kutz book](https://databookuw.com/)
 * [scikit-learn manual](https://scikit-learn.org/stable/)
 * [Michael Pyrcz](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)
+* [Deep Learning with Python](https://deeplearningwithpython.io/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 ### known things to add/check:
